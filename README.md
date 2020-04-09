@@ -10,3 +10,5 @@ After succesfully installing pyinstaller follow the command in shell
 pyinstaller --onefile -w snake.py
 
 This will make a snake.exe file and we can then play game.
+
+PLEASE NOTE: IF ANY OF THE FILE IS DELETED IT MAY CRASH THE GAME
